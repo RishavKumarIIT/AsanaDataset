@@ -1,0 +1,151 @@
+summary
+Update config browser to work with the new syntax
+XALAN_C 1.9 or current do not build on Fedora core 3
+"Problem with ADD new post, and DELETE post."
+LogHandler can only work in GlobalConfiguration in client-config.wsdd
+Decoding of service is broken in org.apache.axis.transport.http.SimpleAxisWorker.java
+XmlConfigurator should support namespaces other than java:comp/env
+GroovyServlet will crash if parameters are passed in HTTP Request
+Port changes from tomcat-catalina
+Groovy / Java Mismatch with simple class
+ActionContext should always have a TextProvider to get default texts
+NodeTypeDefDiff compares to restrictive
+NodeTypeRegistry.reregister unregisters dependent types
+old 2.08 DTD at http://www.ibatis.com/dtd/sql-map-2.dtd
+python bindings not working on Windows
+DataMapper.Configuration.SqlGenerator.BuildDeleteQuery() table name
+BasicHandler Crashes Axis Applet
+variable name clash in macro
+Use hex representation for thread identifier
+Check headers for missing declarations and Effective C++ violations
+Email notification is not working
+Introduce more separation of jUDDI web service from SOAP transport.
+SWT wallpaper support
+Add parameter contentType to the EmailTag
+type attribute for any layout other than FillLayout doesn't work in the SWT tag library.
+JellySWT doesn't support the FormLayout
+File upload creates bogus directory
+"Add support for ""100 Continue"" in Axis2Transport"
+Out of Date xerces-c.spec with suggested fix
+User admin page glitches
+Norwegian and Danish characters are corrupted
+Duplicate class error with listen mode
+Tutorial documentation bug
+"WSDL generated for ""wrapped"" style invalid, breaking .NET's wsdl.exe"
+Control Extensions don't work with Extensible controls
+Access to TextSelectionManager
+Site wide RSS feed is your own if you are logged in 
+virtual BasicNode* IHeaderBlock::getChild(int  iChildPosition)  does not return NULL if childposition is given as 0 or negative value
+Allow commenters to opt-in to email notification of comments
+Compile time error with xerce-c++
+core on SAXParser
+core on Memory manager
+Prefixing Header Blocks
+Require support to Add name spaces dynamically
+Fix problems with setProxy in axis2 transport
+"""Read More"" plugin should ignore HTML tags"
+Double defined listeners
+null pointer exception when executing a script that exist only in memory
+Captcha requiring duplicate gimpybackgrounds directory
+Resources should not be browsable
+Weblog Edit page problems with some browsers
+CLONE -New Tag for parallel iteration
+Remember Me seems to be broken
+To update the SecureChannel interface for SSL DLLs
+Norwegian and Danish characters are corrupted in search query
+Add MS SqlServer support to Roller
+Samples doesn't build due removing the outdated secure parameter from Call::initialize
+"Xalan crashes with ""pure virtual method called"""
+Graphical jelly script viewer
+ServletResponse#setContentType needs to be called before ServletResponse#getWriter
+GroovyServlet web.xml mapping dependency removed and various refactorings
+GroovyServlet: generate binary content
+Remove obsolete SSL features from engine
+"No translator registered for ""string"""
+SmartTranslator does not expand symbols
+hivemind fails on translating a string attribute in a string
+select query fails on 'like xxx322' statement
+getFirstTransportPropertyKey() returns NULL
+"references to "".class"" do not work if full qualified class name is used - will always evaluate to ""java.lang.Class.class"""
+AnyClass.class and AnyClass.getClass() always return java.lang.Class.
+groovy script has issues on cygwin
+Purify reporting UMR errors
+Add note about roller-index directory and user.home writability to docs
+Exception in SearchManager
+SetSecure method in <Service>Client.cpp does not need seperate values for ciphers v2 and v3.
+cvs site unavailable
+Class and module name not available in LogEvent
+Add note on UTF-8 encoding setup for MySQL 4.1.x to docs
+if a .jws source file contains a package a FNF exception is thrown
+The getOperationName() API doesn't work
+swing 2d example code cleaning
+Compile error on SGI-Irix
+Action urls are being corrupted if your session expires and you get redirected
+"Do we need the addNamespaceDecl() method in the ""IHeaderBlock"" interface"
+java.lang.OutOfMemoryError
+Iñtërnâtiônàlizætiøn
+Page rendering duplicated on comment submission
+setUri() API in the IAttribute class does not updated the namespace URI associated with the attribute prefix in SOAP Message
+Cannot compile eBay schema
+DTDs available via Forrest site as well as catalog entity resolver
+GroovySQL should allow a closure to be registered to configure the JDBC statement before use
+character sequences (String.next()) don't work as expected
+Broken link in page http://xmlbeans.apache.org/documentation/index.html
+Some of the RollerException.printStackTrace() methods throw NullPointerException if no root cause has been set
+Proposed changes for forthcoming 2.5.0 release (unixware build)
+Can't compile POUpdater.java from the tutorial
+Errors in getting started tutorial
+Check null pointer condition in method convertToByteArray
+xml parsing issue using jdk 1.3
+Groovy misses first exception
+Broken GroovyMock test case
+Cannot version the root node
+Type problems when applying parameters
+Cannot compile the src.
+blacklist.txt file getting written to /
+[PATCH] updated documentation in /src/documentation/content/xdocs/DnI/areatree.xml
+XWorkBasicConverter isAssignableFrom bug
+SimpleAxisServer fails to link with the latest changes
+Apache server and SimpleAxisServer fails to run with the latest changes
+Microsoft Visual Studio 2005 Beta1
+SCMPrint segfault
+schema compiler failure while importing schemas from a jar
+Cannot stop Forrest server from within Eclipse plugin
+ActiveMQ with ActiveCluster appears to leak memory
+possible optimisations of the wire protocol
+support chunking of messages for UDP and multicast
+Dead letter queue support for messages with no consumers
+Test Bug
+NullPointerException in ArchiveParser when feed has no entries
+Server side crashes if conf file has an invalid client transport
+Unexpanded type macros in 097-098 upgrade script for mysql
+Blacklist update task doesn't catch all exceptions
+tag library xml does not correctly parse body
+"float number, 77.99 becomes 77.989998 in output string"
+Memory leaks in XSD type classes - should define destructor to clean
+"Memory leaks in case of exceptions, if that happnes after Call initialize and before Call unInitialize"
+"rel=""nofollow"" for referrers, trackbacks, and comments"
+build.sh fails on Mac OS X
+build.sh (still) fails on Mac OS X
+using proxy with (basic-) authentification does not work
+forrestbot not using input plugin
+Connection already closed warning
+Support other DB in the OJB Store
+Use checkstyle
+Better Transaction management in the persistence store
+Add a Event Handler service
+Add unit tests for the OJB store iterator
+Some important unit tests are missing
+com.ibatis.common.jdbc.ScriptRunner class contains many bugs
+UserCookieData lacks equals() and hashcode() 
+Don't allow  some operations on the Graffito Master Store
+Warnings found when compiling on Linux AMD64
+colspan and rowspan not working in XXE
+groundless unit tests suite.
+Null Pointer when creating a SOAPEnvelope with a SOAP message containing a SOAP Fault
+WSDL Display Fails for Deployed Web Service
+Attachment code generated unneccessarily
+Flawed SQL clause for moving users in 097-to-098-upgrade script.
+DoubleSupport::toDouble fails to deliver expected result.
+Janino compiler tag library
+PaginatedDataList not Serializable

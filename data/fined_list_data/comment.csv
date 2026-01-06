@@ -1,0 +1,1426 @@
+resolution.description
+A fix for this issue is checked into the tree and tested.
+"All attempts at reproducing this issue failed, or not enough information was available to reproduce the issue. Reading the code produces no clues as to why this behavior would occur. If more information appears later, please reopen the issue."
+""
+The problem isn't valid and it can't be fixed.
+The problem is a duplicate of an existing issue.
+The problem described is an issue which will never be fixed.
+The problem is not completely described.
+Later
+The described issue is not actually a problem - it is as designed.
+As the name suggests
+""
+ Object[]) in org.apache.tapestry.internal.structure.Page
+ Time elapsed: 2.185 sec
+ **/SitemapComponentTestCase*
+ org.apache.maven.surefire:surefire-booter=org.apache.maven.surefire:surefire-booter:jar:2.0:runtime}
+ org.osgi:osgi_R4_compendium=org.osgi:osgi_R4_compendium:jar:1.0:compile
+ rhino:js=rhino:js:jar:1.6R2:compile
+ org.apache.excalibur.components.sourceresolve:excalibur-sourceresolve=org.apache.excalibur.components.sourceresolve:excalibur-sourceresolve:jar:2.1:compile
+ the resolution is correct. Issues which are not closed can be reopened.'
+ Time elapsed: 0.031 sec
+ Time elapsed: 0.078 sec
+ Time elapsed: 0 sec
+ Time elapsed: 0.047 sec
+ Time elapsed: 0.015 sec
+ Time elapsed: 0.016 sec
+ Time elapsed: 0.109 sec
+ Time elapsed: 0.516 sec
+ Time elapsed: 0.063 sec
+ Time elapsed: 0.422 sec
+ Time elapsed: 0.172 sec
+ Time elapsed: 4.297 sec
+ Time elapsed: 0.625 sec
+id={84 -31 -75 45 -59 -28 68 -123 -111 20 9 8 -72 104 9 83 }
+id={-45 112 -51 18 80 18 79 40 -88 -49 -120 -10 -90 -33 106 94 }
+id={2 5 -101 82 -11 115 77 -83 -110 1 71 -86 23 -80 -51 -70 }
+id={26 -77 43 -9 -45 -20 68 79 -103 101 -83 127 -122 -109 -82 -86 }
+id={65 74 -111 8 -6 88 67 -100 -83 9 39 -57 15 -86 90 14 }
+id={-66 43 -113 93 -120 -55 66 -60 -102 94 52 87 -6 -8 -2 -93 }
+id={-103 -128 -1 14 -83 -114 77 -81 -85 -91 -108 -83 46 -56 34 -127 }
+id={120 -87 -35 -26 -17 107 68 23 -75 -45 -85 -90 -125 -121 72 20 }
+id={38 119 101 -98 -93 89 70 -95 -82 -50 40 -101 62 78 22 -108 }
+id={-44 99 -4 -123 13 -48 75 45 -105 -47 66 -25 40 -7 -46 95 }
+id={21 76 -42 90 73 -62 79 33 -93 54 5 -77 -96 35 74 -14 }
+ Time elapsed: 106.562 sec
+ Time elapsed: 0.969 sec
+ Time elapsed: 0.062 sec
+ Time elapsed: 0.531 sec <<< FAILURE!
+Issues which have gone without any activity for an extended period of time
+ image
+j2eeType=PersistenceUnit
+ size=400}
+ size=50}
+ size=200}
+ size=10}
+ $Revision: 5908 $ )
+ id=cache.weblogpage}
+ id=cache.sitewide}
+ id=cache.weblogfeed}
+ id=cache.planet}
+Not A Bug
+ t1.modified
+Works for Me
+std::char_traits<wchar_t> >&)
+std::istreambuf_iterator<wchar_t
+std::ios_base&
+std::char_traits<char>
+std::char_traits<wchar_t> > > >(const std::locale&)
+std::ostreambuf_iterator<wchar_t
+std::char_traits<wchar_t>
+ and validates them before it is buffered. We sometimes use large buffers and would like to guard against in-memory errors. The current checksum code catches a lot of such errors. So we should compute checksums after minimal buffering (just bytesPerChecksum
+ id=4d70cf6f9034eda115a61824189e40a520842123191e0a47d8aa5624
+ ipcPort=50444
+ maxCapacity=1.0
+ vCores:0>usedCapacity=0.0
+ usedResources=<memory:0
+ maximumAllocation=<<memory:3000
+ op: HDFS_WRITE
+ Time elapsed: 1.981 sec
+ l_linestatus order by l_returnflag
+lineitem.l_quantity (FLOAT)
+ clientToken=null
+ <memory:3072
+ Resource: <memory:3072
+ vCores:1>usedCapacity=0.25
+ id: 1
+ op: HDFS_READ
+ <memory:0
+ cluster_id
+ type_name
+ archive VARCHAR(255)
+ value VARCHAR(255)
+ name))
+ required CHAR(1)
+ id_property VARCHAR(255)
+ config_data BYTEA NOT NULL
+ class_name VARCHAR(255) NOT NULL
+ cluster_name VARCHAR(255)
+ desired_stack_version
+Workaround
+ waitCnt=3]
+ waitCnt=4]
+ waitCnt=1]
+ waitCnt=2]
+ waitCnt=11]
+ waitCnt=61]
+ waitCnt=35]
+ waitCnt=37]
+ waitCnt=152]
+ waitCnt=151]
+ waitCnt=34]
+ waitCnt=36]
+ waitCnt=0]
+ waitCnt=301]
+ waitCnt=6]
+ waitCnt=307]
+ waitCnt=606]
+ waitCnt=101]
+ waitCnt=62]
+ waitCnt=5]
+ waitCnt=38]
+ waitCnt=153]
+ waitCnt=12]
+ waitCnt=164]
+ waitCnt=459]
+ waitCnt=611]
+ waitCnt=63]
+ waitCnt=113]
+ waitCnt=510]
+ waitCnt=29986]
+ waitCnt=9]
+ waitCnt=10]
+ waitCnt=353]
+ waitCnt=13]
+ waitCnt=44]
+ waitCnt=43]
+ waitCnt=155]
+ waitCnt=51]
+ waitCnt=157]
+ waitCnt=154]
+ waitCnt=32]
+ waitCnt=587]
+ waitCnt=302]
+ waitCnt=511]
+ waitCnt=30030]
+ m
+This issue was automatically closed
+REMIND
+Won't Do
+ settled=false
+ handle=0
+" this English message is associated with the failure: Fragment link should forward dispose to incoming forwarding link.\x0d\x0a   at Microsoft.ServiceBus.Common.Fx.AssertAndThrow(String description) in d:\bt\131432\private\source\ServiceBus\Clients\Microsoft.ServiceBus.Messaging\Common\Fx.cs:line 156\x0d\x0a   at Microsoft.ServiceBus.Messaging.Amqp.AmqpLink.OnDisposeDelivery(Delivery delivery) in d:\bt\131432\private\source\ServiceBus\Clients\Microsoft.ServiceBus.Messaging\Messaging\Amqp\AmqpLink.cs:line 346\x0d\x0a   at Microsoft.ServiceBus.Messaging.Amqp.AmqpSession.SessionChannel.OnReceiveDisposition(Disposition disposition) in d:\bt\131432\private\source\ServiceBus\Clients\Microsoft.ServiceBus.Messaging\Messaging\Amqp\AmqpSession.cs:line 641\x0d\x0a   at Microsoft.ServiceBus.Messaging.Amqp.AmqpSession.OnReceiveDisposition(Disposition disposition) in d:\bt\131432\private\source\ServiceBus\Clients\Microsoft.ServiceBus.Messaging\Messaging\Amqp\AmqpSession.cs:line 382\x0d\x0a   at Microsoft.ServiceBus.Messaging.Amqp.AmqpSession.ProcessFrame(Frame frame) in d:\bt\131432\private\source\ServiceBus\Clients\Microsoft.ServiceBus.Messaging\Messaging\Amqp\AmqpSession.cs:line 143""""}]]"
+ message-format=0
+ settled=true
+ rcv-settle-mode=0
+ handle-max=255]
+Resolved
+Information Provided
+ 2016 12:30:23 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font ODJDBP+AdvPSSym\r\nMar 30
+ 2016 12:30:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:30:32 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font BFJFHG+AdvP4C4E74\r\n']
+ 2016 12:30:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C226 (1) in font PBKMAP+AdvPSSym\r\nMar 30
+ 2016 12:30:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font EDPHHN+AdvP4C4E74\r\nMar 30
+ 2016 12:30:39 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font LEDMKO+AdvP4C4E74\r\nMar 30
+ 2016 12:30:42 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font OCMMKP+AdvP4C4E74\r\nMar 30
+ 2016 12:30:42 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font FILKGP+AdvP4C4E74\r\nMar 30
+ 2016 12:30:48 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g332 (3) in font IEPKIK+Calibri\r\nMar 30
+ 2016 12:30:52 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (4) in font PEAAOK+MATHG-1A\r\nMar 30
+ 2016 12:30:53 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font PGDLBA+AdvPSSym\r\nMar 30
+ 2016 12:30:53 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font MCHEIM+AdvP4C4E74\r\nMar 30
+ 2016 12:30:58 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font IIAHHF+AdvPSSym\r\nMar 30
+ 2016 12:31:02 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C138 (4) in font HFKAIG+AdvP4C4E74\r\n']
+ 2016 12:31:02 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C5 (2) in font NMLBIH+AdvPSMSAM10\r\nMar 30
+ 2016 12:31:06 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font HOFAIF+AdvP4C4E74\r\nMar 30
+ 2016 12:31:06 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C210 (1) in font OHGKIA+AdvPSSym\r\nMar 30
+ 2016 12:31:08 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font CGKPAO+AdvP4C4E74\r\nMar 30
+ 2016 12:31:14 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C5 (2) in font NMLBIH+AdvPSMSAM10\r\nMar 30
+ 2016 12:31:12 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (3) in font PKIMPE+MATHG-1A\r\nMar 30
+ 2016 12:31:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (4) in font AOACDM+AdvP4C4E74\r\n']
+ 2016 12:31:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (2) in font AdvPSSym\r\n']
+ 2016 12:31:21 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (4) in font DGPKDJ+AdvP4C4E74\r\n']
+ 2016 12:31:26 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:31:30 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for SOH (2) in font NNJIIJ+OnemtmiguAAAA\r\nMar 30
+ 2016 12:31:31 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font EIFMBB+AdvP4C4E74\r\nMar 30
+ 2016 12:31:34 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font GDENNJ+AdvPSSym\r\nMar 30
+ 2016 12:31:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (4) in font OBJDBM+MATHG-1A\r\nMar 30
+ 2016 12:31:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H17009._ (3) in font MathematicalPi-Six\r\n']
+ 2016 12:31:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font SWOJAU+SwkbyyAdvPSSym\r\n']
+ 2016 12:31:42 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font FCOMCG+AdvP4C4E74\r\n']
+ 2016 12:31:42 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C14 (4) in font KGJNMI+AdvP4C4E74\r\nMar 30
+ 2016 12:31:43 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9253 (4) in font PJIIIA+MATHG-1A\r\nMar 30
+ 2016 12:31:45 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font MPGLBI+AdvP4C4E74\r\n']
+ 2016 12:31:47 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font EFHBAG+AdvP4C4E74\r\nMar 30
+ 2016 12:31:48 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font NINKCJ+AdvP4C4E74\r\nMar 30
+ 2016 12:31:54 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:32:05 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C213 (3) in font KLEOKK+AdvT001\r\nMar 30
+ 2016 12:32:12 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font JODBHA+AdvP4C4E74\r\n']
+ 2016 12:32:16 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font FOBLAJ+AdvP4C4E74\r\nMar 30
+ 2016 12:32:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (4) in font OPKDMM+AdvP4C4E74\r\n']
+ 2016 12:32:19 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font JOBFBI+AdvP4C4E74\r\n']
+ 2016 12:32:22 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for prime (4) in font KCFKLN+MTSY\r\nMar 30
+ 2016 12:32:30 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9825 (2) in font MathPackTen\r\n']
+ 2016 12:32:31 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11002 (4) in font BGEBGF+MathematicalPi-One\r\nMar 30
+ 2016 12:32:32 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:32:32 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11554 (4) in font LDKMAH+MathematicalPi-Four\r\nMar 30
+ 2016 12:32:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:32:41 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9260 (3) in font HKFNKK+MATHG-1A\r\nMar 30
+ 2016 12:33:00 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (4) in font BHBGKI+MATHG-1A\r\nMar 30
+ 2016 12:33:02 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (4) in font FGJMGI+MATHG-1A\r\nMar 30
+ 2016 12:33:14 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C14 (4) in font JEGKFP+AdvP4C4E74\r\nMar 30
+ 2016 12:33:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font HKOALN+MATHG-1A\r\nMar 30
+ 2016 12:33:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font LEEJOH+AdvP4C4E74\r\nMar 30
+ 2016 12:33:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font CBABIO+MATHG-1A\r\nMar 30
+ 2016 12:33:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C21 (3) in font IKINKE+AdvMT_SY\r\nMar 30
+ 2016 12:33:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C22 (2) in font OFBMLB+AdvP4C4E59\r\nMar 30
+ 2016 12:33:25 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font HPIAFB+AdvP4C4E74\r\nMar 30
+ 2016 12:33:28 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font FENFFG+AdvP4C4E74\r\n']
+ 2016 12:33:33 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font KAOHID+AdvPSSym\r\nMar 30
+ 2016 12:33:36 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C212 (3) in font CFFIGB+AdvPSSym\r\nMar 30
+ 2016 12:33:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font AKHNPO+AdvP4C4E74\r\nMar 30
+ 2016 12:33:48 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:33:56 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font ACMPFI+MATHG-1A\r\nMar 30
+ 2016 12:34:02 PM org.apache.pdfbox.pdmodel.font.PDType0Font toUnicode\r\nWARNING: No Unicode mapping for CID+415 (415) in font CNPEMK+Calibri-Italic\r\nMar 30
+ 2016 12:34:09 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font GOLMDM+AdvPSSym\r\nMar 30
+ 2016 12:34:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font ELCCOC+AdvP4C4E74\r\nMar 30
+ 2016 12:34:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font NLFPFO+AdvP4C4E74\r\nMar 30
+ 2016 12:34:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font FOALDO+AdvP4C4E74\r\n']
+ 2016 12:34:29 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C210 (3) in font LQSSEN+AdvPSSym\r\nMar 30
+ 2016 12:34:35 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font KMOJNN+AdvMT_SY\r\nMar 30
+ 2016 12:34:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g882 (3) in font OFPIKC+Calibri\r\nMar 30
+ 2016 12:34:42 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font DBDOBK+AdvPSSym\r\nMar 30
+ 2016 12:34:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C4 (4) in font PIKNDM+AdvP4C4E74\r\n']
+ 2016 12:34:51 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font EJIOOO+AdvP4C4E74\r\n']
+ 2016 12:34:51 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font FCPHEO+AdvPSSym\r\nMar 30
+ 2016 12:34:52 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font DEIIBN+AdvP4C4E74\r\nMar 30
+ 2016 12:34:54 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font JNOOOB+MATHG-1A\r\nMar 30
+ 2016 12:34:59 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font EHKAKM+AdvP4C4E74\r\n']
+ 2016 12:35:02 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (2) in font DCHPMA+AdvP4C4E74\r\nMar 30
+ 2016 12:35:06 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11032 (2) in font OHNAFE+Universal-GreekwithMathPi\r\nMar 30
+ 2016 12:35:09 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font BCMCLN+AdvP4C4E74\r\n']
+ 2016 12:35:11 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C19 (3) in font FCJMKE+AdvP4C4E59\r\n']
+ 2016 12:35:13 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C25 (4) in font HNIFLF+AdvP4C4E74\r\nMar 30
+ 2016 12:35:14 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (4) in font JEMKNK+AdvPSSym\r\nMar 30
+ 2016 12:35:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font HPFFAD+AdvP4C4E74\r\n']
+ 2016 12:35:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C14 (3) in font IMEJLL+AdvMT_SY\r\nMar 30
+ 2016 12:35:19 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font PIDCKL+AdvPSSym\r\nMar 30
+ 2016 12:35:32 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font OMEPHK+AdvPSSym\r\nMar 30
+ 2016 12:35:32 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font ENMPPH+AdvP4C4E74\r\nMar 30
+ 2016 12:35:41 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font IJLFGB+AdvP4C4E74\r\n']
+ 2016 12:35:41 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font BKNKCD+AdvP4C4E74\r\nMar 30
+ 2016 12:35:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:35:49 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:35:58 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font GPCGOP+AdvPSSym\r\nMar 30
+ 2016 12:35:59 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C15 (4) in font CGNHHK+AdvMacMthSyN\r\nMar 30
+ 2016 12:36:02 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C210 (4) in font LNOLBP+AdvPSSym\r\n']
+ 2016 12:36:10 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C20 (4) in font JAKCKB+AdvP4C4E74\r\n']
+ 2016 12:36:11 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font PIDCKL+AdvPSSym\r\nMar 30
+ 2016 12:36:15 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (4) in font NJOBND+AdvP4C4E74\r\nMar 30
+ 2016 12:36:15 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9826 (2) in font MathPackTen\r\n']
+ 2016 12:36:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font INGMDC+AdvP4C4E74\r\nMar 30
+ 2016 12:36:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for c033 (1) in font ODFGGL+EdiF-uxykqGc1VrnCIj-009\r\nMar 30
+ 2016 12:36:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font HFDKDM+AdvP4C4E74\r\nMar 30
+ 2016 12:36:19 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for c033 (1) in font ODFGGL+EdiF-uxykqGc1VrnCIj-009\r\nMar 30
+ 2016 12:36:35 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font IMDDIN+AdvPSSym\r\nMar 30
+ 2016 12:36:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (4) in font HBIDDN+AdvP4C4E74\r\n']
+ 2016 12:36:49 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C19 (1) in font NEKHAE+AdvP4C4E59\r\n']
+ 2016 12:36:53 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font KFHOBI+AdvP4C4E74\r\nMar 30
+ 2016 12:36:58 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (4) in font AEIOLK+AdvP4C4E74\r\n']
+ 2016 12:36:59 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g1081 (2) in font GMANEA+MS-Mincho\r\nMar 30
+ 2016 12:37:06 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font HAAAIH+AdvP4C4E74\r\nMar 30
+ 2016 12:37:05 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:37:15 PM org.apache.pdfbox.pdmodel.font.PDType1Font <init>\r\nWARNING: Using fallback font TimesNewRomanPSMT for StoneSerif\r\nMar 30
+ 2016 12:37:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font GAGJIB+AdvP4C4E74\r\nMar 30
+ 2016 12:37:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font CJLLML+AdvP4C4E74\r\nMar 30
+ 2016 12:37:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:37:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (2) in font DJDPNG+MathematicalPi-One\r\n']
+ 2016 12:37:25 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:37:26 PM org.apache.pdfbox.pdmodel.font.PDType1Font <init>\r\nWARNING: Using fallback font TimesNewRomanPSMT for NewCenturySchlbk-Roman\r\nMar 30
+ 2016 12:37:26 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11549 (3) in font APCBLO+MathematicalPi-Four\r\nMar 30
+ 2016 12:37:30 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11021 (44) in font FHBIFF+Universal-GreekwithMathPi\r\nMar 30
+ 2016 12:37:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font IIIMIK+AdvPSSym\r\nMar 30
+ 2016 12:37:42 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font AACMMB+AdvP4C4E74\r\n']
+ 2016 12:37:45 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font OMMMGP+AdvPSSym\r\nMar 30
+ 2016 12:37:51 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font HBBLDP+AdvP4C4E74\r\nMar 30
+ 2016 12:37:54 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (3) in font DOJKIJ+MATHG-1A\r\n']
+ 2016 12:37:55 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for prime (4) in font NBPLLP+MTSY\r\nMar 30
+ 2016 12:37:58 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C24 (2) in font CALPEO+AdvP4C4E74\r\nMar 30
+ 2016 12:37:59 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:38:02 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (1) in font DACDJB+AdvP4C4E74\r\n']
+ 2016 12:38:03 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font OGMDNO+AdvP4C4E74\r\n']
+ 2016 12:38:07 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font GAEBJL+AdvP4C4E74\r\nMar 30
+ 2016 12:38:06 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C226 (1) in font PNBPGL+AdvPSSym\r\nMar 30
+ 2016 12:38:07 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C24 (2) in font CDFALG+AdvP4C4E74\r\nMar 30
+ 2016 12:38:10 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (2) in font KICPHJ+MathematicalPi-One\r\nMar 30
+ 2016 12:38:10 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C18 (3) in font IJBCJL+AdvP4C4E59\r\nMar 30
+ 2016 12:38:15 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (4) in font GNIMND+AdvP4C4E74\r\n']
+ 2016 12:38:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font HBOLDD+AdvP4C4E74\r\n']
+ 2016 12:38:19 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11001 (49) in font DMFILB+Universal-GreekwithMathPi\r\nMar 30
+ 2016 12:38:28 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font GFMMBA+AdvMT_SY\r\nMar 30
+ 2016 12:38:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font DCHPBO+MATHG-1A\r\nMar 30
+ 2016 12:38:32 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C223 (1) in font NBOHOA+AdvSPSASORT\r\nMar 30
+ 2016 12:38:33 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C21 (3) in font CEIIKL+AdvP4C4E74\r\n']
+ 2016 12:38:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font EGGGDP+AdvP4C4E74\r\nMar 30
+ 2016 12:38:42 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font ABKFNF+AdvMacMthSyN\r\n']
+ 2016 12:38:43 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font PHKEFA+AdvP4C4E74\r\nMar 30
+ 2016 12:38:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C226 (1) in font FLOAFM+AdvPSSym\r\nMar 30
+ 2016 12:38:50 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C19 (2) in font MKPAGF+AdvP4C4E59\r\n']
+ 2016 12:38:50 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11034 (55) in font NKIDCI+Universal-NewswithCommPi\r\nMar 30
+ 2016 12:38:53 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:38:57 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (4) in font MGCIIH+MATHG-1A\r\nMar 30
+ 2016 12:38:59 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C24 (2) in font PDCIKF+AdvP4C4E74\r\nMar 30
+ 2016 12:39:01 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C1 (4) in font LHEEHA+AdvP4C4E74\r\n']
+ 2016 12:39:03 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C20 (3) in font CFPCCN+AdvP4C4E59\r\n']
+ 2016 12:39:07 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for circlecopyrt (3) in font NOJJBI+MTSY\r\n']
+ 2016 12:39:10 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font AKFGKD+AdvP4C4E74\r\nMar 30
+ 2016 12:39:10 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C14 (4) in font EBCJNO+AdvP4C4E74\r\nMar 30
+ 2016 12:39:15 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for 223c (2) in font MANANB+LucidaSansUnicode22\r\nMar 30
+ 2016 12:39:16 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font GJBACK+AdvP4C4E74\r\n']
+ 2016 12:39:19 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font ACEMBE+AdvP4C4E74\r\n']
+ 2016 12:39:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (3) in font DOCJAF+MATHG-1A\r\n']
+ 2016 12:39:21 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font BEPHHP+AdvP4C4E74\r\nMar 30
+ 2016 12:39:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font EOHEFL+MATHG-1A\r\nMar 30
+ 2016 12:39:29 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font WBQRKX+WcrrlxAdvPSSym\r\n']
+ 2016 12:39:29 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for circlecopyrt (2) in font PGJCMD+MTSY\r\nMar 30
+ 2016 12:39:32 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11002 (3) in font OHEDNE+Universal-GreekwithMathPi\r\nMar 30
+ 2016 12:39:34 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C226 (4) in font EHNOMP+AdvPSSym\r\nMar 30
+ 2016 12:39:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:39:41 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for circlecopyrt (2) in font JHPIEN+MTSY\r\nMar 30
+ 2016 12:39:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:39:44 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C210 (4) in font HILHLD+AdvPSSym\r\nMar 30
+ 2016 12:39:44 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (2) in font JJIJJJ+MathematicalPi-One\r\nMar 30
+ 2016 12:39:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (3) in font OCDINP+MathematicalPi-One\r\nMar 30
+ 2016 12:39:53 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (2) in font NFKJGK+MathematicalPi-One\r\nMar 30
+ 2016 12:39:54 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (2) in font DPNLEG+MathematicalPi-One\r\nMar 30
+ 2016 12:39:56 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (3) in font MGBMDP+MathematicalPi-One\r\nMar 30
+ 2016 12:39:56 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (2) in font KJAGDK+MathematicalPi-One\r\nMar 30
+ 2016 12:40:02 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font LAFJKH+AdvP4C4E74\r\n']
+ 2016 12:40:02 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C21 (3) in font NHOKPF+AdvP4C4E59\r\n']
+ 2016 12:40:05 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font HJOFBH+AdvMacMthSyN\r\n']
+ 2016 12:40:09 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for Delta1 (3) in font HMGBKB+RMTMI\r\nMar 30
+ 2016 12:40:08 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font BJIKEN+AdvP4C4E74\r\n']
+ 2016 12:40:10 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for prime (3) in font DKKEPE+MTSY\r\n']
+ 2016 12:40:15 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C19 (1) in font FGFADB+AdvP4C4E59\r\nMar 30
+ 2016 12:40:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C24 (4) in font NBONOA+AdvP4C4E74\r\nMar 30
+ 2016 12:40:16 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (3) in font GENMAN+MATHG-1A\r\nMar 30
+ 2016 12:40:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font GBHKOB+AdvP4C4E74\r\n']
+ 2016 12:40:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font GBHKOB+AdvP4C4E74\r\n']
+ 2016 12:40:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9839 (2) in font BBJCLN+MathPackTen\r\n']
+ 2016 12:40:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:40:25 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font LDMGDM+AdvP4C4E74\r\nMar 30
+ 2016 12:40:28 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font MAOEOD+AdvP4C4E74\r\nMar 30
+ 2016 12:40:29 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font FKOADH+AdvP4C4E74\r\nMar 30
+ 2016 12:40:39 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font PHIABH+AdvPSSym\r\nMar 30
+ 2016 12:40:39 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font CFEJDJ+AdvP4C4E74\r\nMar 30
+ 2016 12:40:43 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font PHPOLO+AdvP4C4E74\r\n']
+ 2016 12:40:43 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font OEMIOF+AdvP4C4E74\r\nMar 30
+ 2016 12:40:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g78 (4) in font JAPJDH+SymbolMT\r\nMar 30
+ 2016 12:40:48 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (4) in font NCGNEK+MATHG-1A\r\nMar 30
+ 2016 12:40:48 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for a114 (2) in font CJDKEL+LCIRCLE10\r\n']
+ 2016 12:40:50 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font HEGIIF+AdvP4C4E74\r\n']
+ 2016 12:40:51 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C1 (1) in font JGPFEM+AdvP4C4E74\r\nMar 30
+ 2016 12:40:53 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C18 (3) in font GBGIOH+AdvP4C4E59\r\nMar 30
+ 2016 12:40:54 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font LEBEJI+AdvP4C4E74\r\nMar 30
+ 2016 12:41:03 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (4) in font ELPEJJ+AdvP4C4E74\r\n']
+ 2016 12:41:10 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C210 (3) in font MJCJJM+AdvPSSym\r\nMar 30
+ 2016 12:41:14 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C14 (1) in font HPCKJH+AdvP4C4E74\r\nMar 30
+ 2016 12:41:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9260 (4) in font JCNJDB+MATHG-1A\r\nMar 30
+ 2016 12:41:21 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (1) in font PGKIAC+AdvP4C4E74\r\nMar 30
+ 2016 12:41:21 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font HHNIFP+MATHG-1A\r\nMar 30
+ 2016 12:41:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C226 (2) in font ONEGNH+AdvPSSym\r\nMar 30
+ 2016 12:41:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for Delta1 (3) in font NDINMP+RMTMI\r\n']
+ 2016 12:41:31 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:41:33 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font FEPLKD+MATHG-1A\r\n']
+ 2016 12:41:34 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C1 (3) in font AJPHNG+AdvP4C4E74\r\nMar 30
+ 2016 12:41:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (2) in font IFJAJA+MathematicalPi-One\r\n']
+ 2016 12:41:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font COHFNK+AdvP4C4E74\r\nMar 30
+ 2016 12:41:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font JFLLFA+AdvP4C4E74\r\nMar 30
+ 2016 12:41:42 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font OCAJGI+AdvMacMthSyN\r\n']
+ 2016 12:41:43 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for Delta1 (3) in font FHKLCD+OnemtmiguAAAA\r\nMar 30
+ 2016 12:41:45 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font HLOFEH+AdvP4C4E74\r\nMar 30
+ 2016 12:41:49 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font ALPEKF+MATHG-1A\r\nMar 30
+ 2016 12:41:55 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H18528 (1) in font KFBOBB+Universal-NewswithCommPi\r\nMar 30
+ 2016 12:41:55 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (3) in font AFNLNB+MATHG-1A\r\nMar 30
+ 2016 12:42:00 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (4) in font MPJAPL+MATHG-1A\r\n']
+ 2016 12:42:03 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (4) in font MNMHBM+AdvP4C4E74\r\n']
+ 2016 12:42:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font PFNLMN+AdvP4C4E74\r\n']
+ 2016 12:42:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (98) in font MCFDOE+MathematicalPi-One\r\nMar 30
+ 2016 12:42:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (2) in font MNHMJA+AdvP4C4E74\r\n']
+ 2016 12:42:19 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C20 (4) in font DCNIIM+AdvP4C4E74\r\n']
+ 2016 12:42:21 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C15 (1) in font DMMGEB+AdvP4C4E74\r\nMar 30
+ 2016 12:42:23 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C213 (2) in font DOFEGB+AdvT001\r\nMar 30
+ 2016 12:42:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font JKOLKO+AdvP4C4E74\r\n']
+ 2016 12:42:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font AMGDJK+AdvP4C4E74\r\nMar 30
+ 2016 12:42:28 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9260 (4) in font KJPKDK+MATHG-1A\r\nMar 30
+ 2016 12:42:36 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font DCNJOG+AdvP4C4E74\r\n']
+ 2016 12:42:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font CIHKNH+AdvP4C4E74\r\nMar 30
+ 2016 12:42:39 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C211 (2) in font LOPLEB+AdvPSSym\r\nMar 30
+ 2016 12:42:41 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (2) in font AdvPSSym\r\n']
+ 2016 12:42:43 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font CDOIOF+AdvP4C4E74\r\nMar 30
+ 2016 12:42:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C210 (2) in font DNMFDD+AdvPSSym\r\nMar 30
+ 2016 12:42:48 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9253 (4) in font JHNACE+MATHG-1A\r\nMar 30
+ 2016 12:42:55 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11005 (4) in font DBFCOL+MathematicalPi-One\r\nMar 30
+ 2016 12:42:56 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (4) in font FHKIBB+AdvP4C4E74\r\nMar 30
+ 2016 12:42:59 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C19 (1) in font NAGILI+AdvP4C4E59\r\nMar 30
+ 2016 12:43:05 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (4) in font PGOPAM+MATHG-1A\r\nMar 30
+ 2016 12:43:08 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g539 (2) in font UARTMS+TT61t00\r\nMar 30
+ 2016 12:43:09 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font AHABFN+AdvP4C4E74\r\n']
+ 2016 12:43:12 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for prime (3) in font GFMIMI+MTSY\r\nMar 30
+ 2016 12:43:14 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for p118 (109) in font CNMLDO+DMathNine\r\nMar 30
+ 2016 12:43:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font IIENHB+AdvP4C4E74\r\nMar 30
+ 2016 12:43:22 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:43:25 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C224 (3) in font DOGCMI+AdvPSMP1\r\nMar 30
+ 2016 12:43:31 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C24 (2) in font PLILCI+AdvP4C4E74\r\nMar 30
+ 2016 12:43:33 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font GIFHKE+AdvP4C4E74\r\nMar 30
+ 2016 12:43:33 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9839 (1) in font MathPackThirteen\r\n']
+ 2016 12:43:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font ACMGBO+AdvP4C4E74\r\nMar 30
+ 2016 12:43:41 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C27 (3) in font KKJHBM+AdvBMa1\r\nMar 30
+ 2016 12:43:41 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9826 (3) in font MathPackTen\r\n']
+ 2016 12:43:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (2) in font MDGBPM+AdvPSSym\r\nMar 30
+ 2016 12:43:50 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:43:52 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:43:55 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font OMKFBB+AdvP4C4E74\r\nMar 30
+ 2016 12:43:56 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font OMOPCP+AdvPSSym\r\nMar 30
+ 2016 12:43:56 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:44:00 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C223 (1) in font CCMNIN+AdvSPSASORT\r\nMar 30
+ 2016 12:44:04 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font JLDCCF+AdvPSSym\r\n']
+ 2016 12:44:03 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C228 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:44:07 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:44:08 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font OHCENK+AdvPSSym\r\nMar 30
+ 2016 12:44:08 PM org.apache.pdfbox.pdmodel.font.PDType1Font <init>\r\nWARNING: Using fallback font TimesNewRomanPS-ItalicMT for NewCenturySchlbk-Italic\r\nMar 30
+ 2016 12:44:08 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9825 (3) in font MathPackTen\r\n']
+ 2016 12:44:14 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (2) in font KNGNMB+MathematicalPi-Four\r\nMar 30
+ 2016 12:44:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font EBFDNB+AdvP4C4E74\r\nMar 30
+ 2016 12:44:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font CFPPHC+AdvP4C4E74\r\nMar 30
+ 2016 12:44:23 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (4) in font AANAKA+AdvP4C4E74\r\nMar 30
+ 2016 12:44:23 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (4) in font EPCPOG+MathematicalPi-One\r\nMar 30
+ 2016 12:44:22 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g3 (2) in font EPBADJ+Calibri-Bold\r\nMar 30
+ 2016 12:44:26 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9828 (4) in font MathPackTen\r\nMar 30
+ 2016 12:44:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font GEHBDE+AdvPSSym\r\nMar 30
+ 2016 12:44:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:44:34 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:44:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C24 (4) in font BJKKIN+AdvP4C4E74\r\nMar 30
+ 2016 12:44:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (1) in font KJOLDP+AdvP4C4E74\r\nMar 30
+ 2016 12:44:45 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (3) in font JFBCDO+MathematicalPi-One\r\nMar 30
+ 2016 12:44:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for NAK (2) in font NIDBNO+OnemtmiguAAAA\r\nMar 30
+ 2016 12:44:48 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font NFKMHA+AdvP4C4E74\r\nMar 30
+ 2016 12:44:56 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (4) in font OHHLPD+AdvPSSym\r\nMar 30
+ 2016 12:44:58 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C5 (2) in font PFJAIB+AdvPSMSAM10\r\n']
+ 2016 12:44:59 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:45:00 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font JIDALM+MATHG-1A\r\nMar 30
+ 2016 12:45:09 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C14 (2) in font OMCKIH+AdvP4C4E74\r\nMar 30
+ 2016 12:45:12 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font MKCLEI+AdvP4C4E74\r\nMar 30
+ 2016 12:45:13 PM org.apache.pdfbox.pdmodel.font.PDType0Font toUnicode\r\nWARNING: No Unicode mapping for CID+537 (537) in font GKHAGL+TimesNewRomanPSMT\r\nMar 30
+ 2016 12:45:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C160 (1) in font EDILPB+AdvPSMP1\r\nMar 30
+ 2016 12:45:17 PM org.apache.pdfbox.pdmodel.font.PDTrueTypeFont <init>\r\nWARNING: Using fallback font 'Arial-BoldMT' for 'Helvetica
+ 2016 12:45:19 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (4) in font EHEGLL+AdvP4C4E74\r\nMar 30
+ 2016 12:45:21 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C212 (4) in font MOLINN+AdvPSSym\r\nMar 30
+ 2016 12:45:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11022 (2) in font OKDJIM+Universal-GreekwithMathPi\r\nMar 30
+ 2016 12:45:23 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:45:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:45:28 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (3) in font JIEIKM+MathematicalPi-One\r\nMar 30
+ 2016 12:45:29 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font FNNKPI+MATHG-1A\r\nMar 30
+ 2016 12:45:29 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for circlecopyrt (2) in font KHBMEP+MTSY\r\nMar 30
+ 2016 12:45:32 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font MCHEIM+AdvP4C4E74\r\nMar 30
+ 2016 12:45:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (4) in font MPBCBH+AdvP4C4E74\r\n']
+ 2016 12:45:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font EAANCI+AdvP4C4E74\r\n']
+ 2016 12:45:41 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font AdvP4C4E74\r\n']
+ 2016 12:45:44 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:45:45 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C211 (2) in font PODOPD+AdvPSSym\r\nMar 30
+ 2016 12:45:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font MOMHOA+AdvP4C4E74\r\nMar 30
+ 2016 12:45:47 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for p107 (103) in font DFHAEE+DMathNine\r\nMar 30
+ 2016 12:45:51 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font ENMAAG+AdvP4C4E74\r\nMar 30
+ 2016 12:45:55 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (1) in font DLKPCC+AdvP4C4E74\r\nMar 30
+ 2016 12:46:00 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font ANPMFO+AdvP4C4E74\r\nMar 30
+ 2016 12:46:03 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font NDNNGG+AdvPSSym\r\n']
+ 2016 12:46:14 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C14 (2) in font GJCIGH+AdvP4C4E74\r\nMar 30
+ 2016 12:46:14 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9825 (2) in font MathPackTen\r\nMar 30
+ 2016 12:46:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (4) in font LCGBLI+AdvP4C4E74\r\nMar 30
+ 2016 12:46:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C19 (4) in font IFFHFM+AdvP4C4E59\r\nMar 30
+ 2016 12:46:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:46:22 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g415 (2) in font EPOPBM+Calibri-Bold\r\nMar 30
+ 2016 12:46:22 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:46:25 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font PHHIHE+AdvP4C4E74\r\nMar 30
+ 2016 12:46:25 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9839 (1) in font MathPackThirteen\r\nMar 30
+ 2016 12:46:30 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C138 (4) in font KGPFBF+AdvP4C4E74\r\nMar 30
+ 2016 12:46:30 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:46:36 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C30 (3) in font NDFBKL+AdvBMa1\r\n']
+ 2016 12:46:36 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for prime (4) in font CMIFPO+MTSY\r\nMar 30
+ 2016 12:46:39 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9839 (1) in font MathPackThirteen\r\nMar 30
+ 2016 12:46:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (2) in font AdvPSSym\r\n']
+ 2016 12:46:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (2) in font AdvPSSym\r\nMar 30
+ 2016 12:46:44 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C29 (3) in font CFAODG+AdvBMa1\r\n']
+ 2016 12:46:47 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C1 (3) in font DCMPJB+AdvBMa1\r\nMar 30
+ 2016 12:46:48 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9839 (1) in font MathPackThirteen\r\nMar 30
+ 2016 12:46:49 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AAJHHB+AdvPSSym\r\nMar 30
+ 2016 12:46:55 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9260 (4) in font GOFLKM+MathematicalPi-One\r\nMar 30
+ 2016 12:46:57 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font HLJLEG+AdvP4C4E74\r\nMar 30
+ 2016 12:47:07 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font CCCBHD+AdvP4C4E74\r\nMar 30
+ 2016 12:47:14 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font PNBHEF+AdvPSSym\r\nMar 30
+ 2016 12:47:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11349 (3) in font BEFILH+MathematicalPi-One\r\n']
+ 2016 12:47:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font HMAEJA+AdvP4C4E74\r\n']
+ 2016 12:47:25 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font ECJJBL+AdvP4C4E74\r\n']
+ 2016 12:47:33 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C14 (3) in font GCHAIE+AdvP4C4E74\r\nMar 30
+ 2016 12:47:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:47:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font GOAAFJ+AdvP4C4E74\r\nMar 30
+ 2016 12:47:41 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C210 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:47:44 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font MOCJFL+AdvP4C4E74\r\nMar 30
+ 2016 12:47:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font FOJFCH+AdvP4C4E74\r\nMar 30
+ 2016 12:47:47 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font MOOKMF+AdvP4C4E74\r\nMar 30
+ 2016 12:47:49 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font ABLGCB+AdvMT_SY\r\n']
+ 2016 12:47:53 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C25 (1) in font EBBCKD+AdvP4C4E74\r\nMar 30
+ 2016 12:47:50 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:47:55 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font BKNKCD+AdvP4C4E74\r\nMar 30
+ 2016 12:48:04 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font FPAHPE+AdvP4C4E74\r\nMar 30
+ 2016 12:48:04 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g68 (2) in font AMIPHI+SymbolMT\r\nMar 30
+ 2016 12:48:03 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:48:08 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font JLHDNC+AdvP4C4E74\r\nMar 30
+ 2016 12:48:11 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for p118 (109) in font IELAFM+DMathNine\r\nMar 30
+ 2016 12:48:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g882 (3) in font AJDJAO+Calibri\r\nMar 30
+ 2016 12:48:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for prime (4) in font LIMOBC+MTSY\r\nMar 30
+ 2016 12:48:19 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:48:22 PM org.apache.pdfbox.pdmodel.font.PDType0Font toUnicode\r\nWARNING: No Unicode mapping for CID+88 (88) in font GHPOIL+TimesNewRoman
+ 2016 12:48:23 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font CNIBHG+AdvP4C4E74\r\nMar 30
+ 2016 12:48:23 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for circlecopyrt (3) in font DMGFJB+MTSY\r\nMar 30
+ 2016 12:48:25 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font LGGNHL+AdvP4C4E74\r\nMar 30
+ 2016 12:48:26 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (4) in font MOHMKE+AdvPSSym\r\n']
+ 2016 12:48:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C28 (3) in font CHDKEP+AdvBMa1\r\nMar 30
+ 2016 12:48:30 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (4) in font MOHMKE+AdvPSSym\r\n']
+ 2016 12:48:34 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font MMBBDO+AdvP4C4E74\r\nMar 30
+ 2016 12:48:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font IBMCBH+AdvP4C4E74\r\nMar 30
+ 2016 12:48:42 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11006 (4) in font FEGHMO+MathematicalPi-One\r\n']
+ 2016 12:48:43 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g1081 (2) in font GMANEA+MS-Mincho\r\nMar 30
+ 2016 12:48:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:48:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font KNDMFM+AdvP4C4E74\r\nMar 30
+ 2016 12:48:47 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for p54 (54) in font GEGOHH+DMathTen\r\nMar 30
+ 2016 12:48:54 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font AFGAAP+AdvP4C4E74\r\n']
+ 2016 12:48:54 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font JMFGEB+AdvP4C4E74\r\nMar 30
+ 2016 12:48:58 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C20 (3) in font MHGEPL+AdvP4C4E74\r\nMar 30
+ 2016 12:49:02 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font HEGEMJ+AdvP4C4E74\r\n']
+ 2016 12:49:05 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C181 (3) in font AdvPSSym\r\n']
+ 2016 12:49:03 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (4) in font CAGPMN+MATHG-1A\r\n']
+ 2016 12:49:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font GFBONO+AdvP4C4E74\r\nMar 30
+ 2016 12:49:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:49:21 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font FCAKGG+AdvMT_SY\r\nMar 30
+ 2016 12:49:21 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:49:22 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9825 (2) in font MathPackTen\r\nMar 30
+ 2016 12:49:25 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font IGDNFH+AdvP4C4E74\r\nMar 30
+ 2016 12:49:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:49:28 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:49:31 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font CKGJDI+AdvP4C4E74\r\nMar 30
+ 2016 12:49:33 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C181 (3) in font AdvPSSym\r\n']
+ 2016 12:49:34 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9253 (4) in font KLKJOF+MATHG-1A\r\nMar 30
+ 2016 12:49:36 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C181 (3) in font AdvPSSym\r\n']
+ 2016 12:49:39 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (4) in font KFFIBN+MATHG-1A\r\nMar 30
+ 2016 12:49:42 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:49:45 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:49:50 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for .notdef (31) in font IHLOJH+TimesNewRomanPSMT\r\n']
+ 2016 12:49:52 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g549 (3) in font BLJKPD+TimesNewRomanPSMT\r\nMar 30
+ 2016 12:49:54 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font HAHPMH+AdvP4C4E74\r\nMar 30
+ 2016 12:49:52 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:49:57 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C1 (4) in font PDJIJI+AdvP4C4E74\r\n']
+ 2016 12:50:00 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font LCHLII+AdvP4C4E74\r\nMar 30
+ 2016 12:50:01 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C1 (3) in font HPPJMF+AdvP4C4E74\r\nMar 30
+ 2016 12:50:04 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font NHAFEG+AdvP4C4E74\r\nMar 30
+ 2016 12:50:11 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font HDCNNA+AdvP4C4E74\r\n']
+ 2016 12:50:09 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:50:16 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9252 (3) in font APMFAP+MATHG-1A\r\nMar 30
+ 2016 12:50:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font HJOFBH+AdvMacMthSyN\r\n']
+ 2016 12:50:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font ILINED+AdvP4C4E74\r\n']
+ 2016 12:50:18 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C213 (1) in font KIFCDO+AdvPSMP1\r\nMar 30
+ 2016 12:50:20 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font HOJIDB+AdvP4C4E74\r\nMar 30
+ 2016 12:50:21 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9262 (4) in font EOHEFL+MATHG-1A\r\nMar 30
+ 2016 12:50:31 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (4) in font GBBFII+AdvP4C4E74\r\n']
+ 2016 12:50:36 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font MAOEOD+AdvP4C4E74\r\nMar 30
+ 2016 12:50:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C14 (2) in font NIHPHI+AdvP4C4E74\r\n']
+ 2016 12:50:39 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C19 (1) in font OGFBPP+AdvP4C4E5E\r\n']
+ 2016 12:50:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font BLHNAL+AdvP4C4E74\r\nMar 30
+ 2016 12:50:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g539 (2) in font EBDNOC+TimesNewRomanPSMT\r\nMar 30
+ 2016 12:50:45 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font OJIPHI+AdvPSSym\r\n']
+ 2016 12:50:46 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for afii9839 (1) in font MathPackThirteen\r\nMar 30
+ 2016 12:50:48 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (4) in font KEPBMA+AdvMacMthSyN\r\n']
+ 2016 12:50:52 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9253 (4) in font HFCDAC+MathematicalPi-One\r\nMar 30
+ 2016 12:50:54 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:50:56 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\n']
+ 2016 12:50:58 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (2) in font MNGKNB+AdvP4C4E74\r\nMar 30
+ 2016 12:51:00 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H9251 (4) in font PHKPKD+MATHG-1A\r\nMar 30
+ 2016 12:51:02 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font GOFGGA+AdvPSSym\r\nMar 30
+ 2016 12:51:04 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font HLJLEG+AdvP4C4E74\r\nMar 30
+ 2016 12:51:05 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (4) in font HLJLEG+AdvP4C4E74\r\nMar 30
+ 2016 12:51:10 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font ADIHGB+AdvP4C4E74\r\n']
+ 2016 12:51:11 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C14 (3) in font ACECFE+AdvMT_SY\r\nMar 30
+ 2016 12:51:12 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for CT (3) in font T1\r\nMar 30
+ 2016 12:51:15 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (4) in font MHPFGN+AdvP4C4E74\r\nMar 30
+ 2016 12:51:19 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C210 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:51:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font ENCDOP+AdvP4C4E74\r\n']
+ 2016 12:51:23 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for p104 (97) in font NNNILK+DMathNine\r\nMar 30
+ 2016 12:51:27 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C27 (3) in font JEFAMP+AdvBMa1\r\n']
+ 2016 12:51:26 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (2) in font NHCLLG+AdvP4C4E74\r\nMar 30
+ 2016 12:51:26 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font AdvPSSym\r\nMar 30
+ 2016 12:51:30 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C0 (3) in font OIDCLN+AdvP4C4E74\r\n']
+ 2016 12:51:31 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font JCNMPL+AdvP4C4E74\r\n']
+ 2016 12:51:33 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for p118 (109) in font NJMNJE+DMathNine\r\nMar 30
+ 2016 12:51:35 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C6 (3) in font FBPJJK+AdvP4C4E74\r\n']
+ 2016 12:51:36 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g302 (2) in font FEMDHD+TimesNewRomanPSMT\r\nMar 30
+ 2016 12:51:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g533 (2) in font CMBGEF+TimesNewRomanPSMT\r\nMar 30
+ 2016 12:51:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font LCBFGG+AdvPSSym\r\n']
+ 2016 12:51:40 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for g302 (2) in font FEMDHD+TimesNewRomanPSMT\r\nMar 30
+ 2016 12:51:45 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C2 (3) in font BMBPBM+AdvP4C4E74\r\nMar 30
+ 2016 12:51:54 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for C176 (3) in font GKIHLH+AdvPSSym\r\nMar 30
+ 2016 12:51:54 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode\r\nWARNING: No Unicode mapping for H11350 (2) in font HPLGPD+MathematicalPi-One\r\nMar 30
+ Time elapsed: 3.007 sec <<< FAILURE! - in org.apache.activemq.artemis.tests.integration.client.PagingTest
+{couch_httpd
+verbose=n
+/grid/5/dfs/snn
+/grid/5/dfs/nn
+/usr/hdp/current/hadoop-hdfs-client/lib/*
+Delivered
+ and it is awaiting verification by reporter. From here issues are either reopened
+2653}'
+ and StreamUtils if needed
+ 'name': 'Open'
+ 'status': {'description': 'The issue is considered finished
+ waitCnt=7]
+Feedback Received
+p<0.0>
+A5:false
+H7F1DD9FBE748
+I0
+H7F1DDF51C498
+A9:undefined
+A9:permanent
+A9:temporary
+N
+AD:nonode@nohost
+A11:inet_hosts_byaddr
+I13
+H7F1DDF51BCF0
+H7F1DDF502220
+0
+ version=97
+ JvmArg = []
+ version=22
+ version=23
+ version=1
+ version=51
+ version=133
+ groupId=mygrp42] Added READ_UNCOMMITTED fetch request for partition trans-topic-2 at offset 70 to node localhost:9092 (id: 0 rack: null)
+ groupId=mygrp42] Added READ_UNCOMMITTED fetch request for partition trans-topic-0 at offset 441 to node localhost:9092 (id: 0 rack: null)
+ groupId=mygrp42] Sending READ_UNCOMMITTED fetch for partitions [trans-topic-1
+ groupId=mygrp42] Fetch READ_UNCOMMITTED at offset 56 for partition trans-topic-1 returned fetch data (error=NONE
+ groupId=mygrp42] Fetch READ_UNCOMMITTED at offset 70 for partition trans-topic-2 returned fetch data (error=NONE
+ groupId=mygrp42] Fetch READ_UNCOMMITTED at offset 441 for partition trans-topic-0 returned fetch data (error=NONE
+ groupId=mygrp42] Added READ_UNCOMMITTED fetch request for partition trans-topic-1 at offset 56 to node localhost:9092 (id: 0 rack: null)
+ groupId=mygrp42] Sending Heartbeat request to coordinator localhost:9092 (id: 2147483647 rack: null)
+ groupId=mygrp42] Attempt to heartbeat failed since group is rebalancing
+ groupId=mygrp42] Revoking previously assigned partitions [trans-topic-1
+ trans-topic-0
+ groupId=mygrp42] Disabling heartbeat thread
+ groupId=mygrp42] (Re-)joining group
+ groupId=mygrp42] Sending JoinGroup ((type: JoinGroupRequest
+ groupId=mygrp42] Received successful JoinGroup response: org.apache.kafka.common.requests.JoinGroupResponse@73510841
+ groupId=mygrp42] Performing assignment using strategy range with subscriptions {consumer-1-3dcfe3d4-3c0d-42d6-8079-1f6a63d0e283=Subscription(topics=[trans-topic])
+ groupId=mygrp42] Finished assignment for group: {consumer-1-3dcfe3d4-3c0d-42d6-8079-1f6a63d0e283=Assignment(partitions=[trans-topic-0
+ groupId=mygrp42] Sending leader SyncGroup to coordinator localhost:9092 (id: 2147483647 rack: null): (type=SyncGroupRequest
+ groupId=mygrp42] Successfully joined group with generation 313
+ groupId=mygrp42] Enabling heartbeat thread
+ groupId=mygrp42] Setting newly assigned partitions [trans-topic-2]
+ groupId=mygrp42] Fetching committed offsets for partitions: [trans-topic-2]
+ groupId=mygrp42] Resetting offset for partition trans-topic-2 to the committed offset 69
+ metadata=''}}
+ISOLATION_DEFAULT
+ transactionalId=transactionId420] Transition from state READY to IN_TRANSACTION
+ transactionalId=transactionId420] Begin adding offsets {trans-topic-2=OffsetAndMetadata{offset=69
+ transactionalId=transactionId420] Enqueuing transactional request (type=AddOffsetsToTxnRequest
+ transactionalId=transactionId420] Sending transactional request (type=AddOffsetsToTxnRequest
+ transactionalId=transactionId420] Successfully added partition for consumer group mygrp42 to transaction
+ transactionalId=transactionId420] Sending transactional request (type=TxnOffsetCommitRequest
+ transactionalId=transactionId420] Successfully added offsets {trans-topic-2=CommittedOffset(offset=69
+ transactionalId=transactionId420] Transition from state IN_TRANSACTION to COMMITTING_TRANSACTION
+ transactionalId=transactionId420] Enqueuing transactional request (type=EndTxnRequest
+ transactionalId=transactionId420] Sending transactional request (type=EndTxnRequest
+ transactionalId=transactionId420] Transition from state COMMITTING_TRANSACTION to READY
+ groupId=mygrp42] Ignoring fetched records for partition trans-topic-1 since it is no longer fetchable
+ groupId=mygrp42] Discarding stale fetch response for partition trans-topic-2 since its offset 70 does not match the expected offset 69
+ groupId=mygrp42] Ignoring fetched records for partition trans-topic-0 since it is no longer fetchable
+ groupId=mygrp42] Added READ_UNCOMMITTED fetch request for partition trans-topic-2 at offset 69 to node localhost:9092 (id: 0 rack: null)
+ groupId=mygrp42] Sending READ_UNCOMMITTED fetch for partitions [trans-topic-2] to broker localhost:9092 (id: 0 rack: null)
+ groupId=mygrp42] Fetch READ_UNCOMMITTED at offset 69 for partition trans-topic-2 returned fetch data (error=NONE
+ groupId=mygrp42] Received successful Heartbeat response
+1
+ module org.openide.util.ui > 9.3
+ nb-javac-impl.jar
+ org-netbeans-modules-java-editor-javadoc-JavadocCompletionProvider.instance
+ Maven2
+ org-netbeans-modules-editor-url-HyperlinkImpl.instance
+ localhost
+ server: localhost/127.0.0.1:11227
+ LOOKING (n.state)
+ LEADING (n.state)
+ FOLLOWING (n.state)
+ server: localhost/127.0.0.1:11230
+ server: localhost/127.0.0.1:11233
+ server: localhost/127.0.0.1:11236
+ server: localhost/127.0.0.1:11245
+ server: localhost/127.0.0.1:11251
+Staged
+ netty-codec-http=netty-codec-http-4.0.44.Final.452812a
+10.1.13.11}; server_encryption_options=<REDACTED>; snapshot_before_compaction=false; ssl_storage_port=7001; sstable_preemptive_open_interval_in_mb=50; start_native_transport=true; start_rpc=true; storage_port=7000; stream_throughput_outbound_megabits_per_sec=200; streaming_socket_timeout_in_ms=86400000; thrift_framed_transport_size_in_mb=15; thrift_max_message_length_in_mb=16; tombstone_failure_threshold=100000; tombstone_warn_threshold=1000; tracetype_query_ttl=86400; tracetype_repair_ttl=604800; trickle_fsync=true; trickle_fsync_interval_in_kb=10240; truncate_request_timeout_in_ms=60000; unlogged_batch_across_partitions_warn_threshold=10; user_defined_function_fail_timeout=1500; user_defined_function_warn_timeout=500; user_function_timeout_policy=die; windows_timer_interval=0; write_request_timeout_in_ms=2000]
+ nproc limit adequate? : true 
+ /mnt/cassandra01/data/system/local-7ad54392bcdd35a684174e047860b377/mc-54-big-Data.db:level=0
+220 (~93% of original) in 146ms = 0.034097MB/s.  4 total partitions merged to 1.  Partition merge counts were {4:1
+ /mnt/cassandra01/data/system/local-7ad54392bcdd35a684174e047860b377/mc-58-big-Data.db:level=0
+295 (~98% of original) in 88ms = 0.057383MB/s.  4 total partitions merged to 1.  Partition merge counts were {4:1
+ discPort=47502
+ CPUs=4
+ clsLdrId=f9edc4e1051-20ad4ab9-c0a0-45b9-a9a7-0ff0effed002
+ discPort=47501
+ clsLdrId=d3bc74e1051-1022ab80-2cea-4318-8cf0-bcca0b1f2001
+ clsLdrId=1272e4e1051-2042bd5d-d06d-438e-9764-d7ea5baa2002
+ discPort=47503
+ clsLdrId=8b9394e1051-3003259d-175e-467d-9dab-e9174c09f003
+ clsLdrId=b432f4e1051-101d30a6-597a-4359-ba80-96df9bf0e001
+ clsLdrId=b3bc74e1051-00b8f10b-8261-4089-8c3e-5ef516137000
+ collocated=false
+5
+ org-netbeans-lib-editor-codetemplates-CodeTemplateCompletionProvider.instance
+983 in Downloading Maven dependencies at org.netbeans.modules.maven.embedder.exec.ProgressTransferListener.transferProgressed(ProgressTransferListener.java:178)
+275 in Downloading Maven dependencies at org.netbeans.modules.maven.embedder.exec.ProgressTransferListener.transferProgressed(ProgressTransferListener.java:178)
+ org-netbeans-modules-editor-url-HyperlinkImpl.instance]
+ AnnotationType.java
+ 1
+134 indirect) bytes in 2 blocks are definitely lost in loss record 7 of 7
+ updating server configuration.Even though the source level of /Users/fonsito/Documents/git/hotel/hotel-jpa-sql/build/generated/sources/annotationProcessor/java/main:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/resources:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/java:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/build/generated/sources/annotationProcessor/java/main:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/resources:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/java:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/build/generated/sources/annotationProcessor/java/main:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/resources:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/java:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/test/java:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/test/resources:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/build/generated/sources/annotationProcessor/java/test:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/build/generated/sources/annotationProcessor/java/main:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/resources:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/java:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/build/generated/sources/annotationProcessor/java/main:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/resources:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/java:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/build/generated/sources/annotationProcessor/java/main:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/resources:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/java:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/build/generated/sources/annotationProcessor/java/main:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/resources:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/java:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/test/java:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/test/resources:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/build/generated/sources/annotationProcessor/java/test:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/build/generated/sources/annotationProcessor/java/main:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/resources:/Users/fonsito/Documents/git/hotel/hotel-jpa-sql/src/main/java is set to: 11
+" java.util.zip.CRC32C cannot be found on the system module path: Changing source level to 1.8"""
+ ModuleCL@10c53d17[org.netbeans.api.debugger]
+" 8."""
+ 255
+ org.netbeans.modules.web.livehtml] use org.jdesktop.layout which is deprecated: Use javax.swing.GroupLayout instead. (In form editor: select Form ... in Inspector; change Layout Generation Style to Standard Java 6 code.)
+ SafariBrowser.settings
+ org-lorenzos-emmet-actions-EmmetWrapWithAbbreviation.shadow
+ org-netbeans-modules-favorites-View.shadow
+&amp;Find...[Actions/Edit/org-openide-actions-FindAction.instance]}]</param>
+Cop&amp;y[Actions/Edit/org-openide-actions-CopyAction.instance]}]</param>
+ DiffProviders
+ ModuleCL@6e5d2945[org.netbeans.modules.java.source]
+ org.netbeans.modules.maven.j2ee
+ C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\
+ MarkOccurrences
+ 0 failed
+ waitCnt=4688]
+ waitCnt=443]
+ waitCnt=4771]
+ waitCnt=42345]
+ waitCnt=4694]
+ waitCnt=42347]
+ waitCnt=42339]
+ waitCnt=302100]
+ waitCnt=302236]
+ waitCnt=301987]
+ waitCnt=301688]
+ waitCnt=409986]
+ waitCnt=302854]
+ waitCnt=410302]
+ waitCnt=302386]
+ waitCnt=343641]
+ waitCnt=343360]
+ waitCnt=410045]
+ waitCnt=301906]
+ waitCnt=410318]
+ waitCnt=410304]
+ waitCnt=410110]
+ waitCnt=342837]
+ waitCnt=343770]
+ waitCnt=409840]
+ waitCnt=301845]
+ waitCnt=342957]
+ waitCnt=344377]
+ waitCnt=343531]
+ waitCnt=344693]
+ waitCnt=409975]
+ waitCnt=2097]
+ waitCnt=5907]
+ waitCnt=6684]
+ waitCnt=5899]
+ waitCnt=6648]
+ waitCnt=5893]
+ waitCnt=6683]
+ waitCnt=223152]
+ waitCnt=214275]
+ waitCnt=213778]
+ waitCnt=5223]
+ waitCnt=5599]
+ waitCnt=5442]
+ waitCnt=42385]
+ waitCnt=14]
+ waitCnt=874739]
+ waitCnt=757620]
+ waitCnt=844986]
+ waitCnt=792292]
+ waitCnt=731709]
+ waitCnt=730559]
+ waitCnt=790596]
+ waitCnt=863645]
+ waitCnt=42390]
+ waitCnt=42387]
+ waitCnt=8]
+ waitCnt=582186]
+ waitCnt=703113]
+ waitCnt=694669]
+ waitCnt=731778]
+ waitCnt=612638]
+ waitCnt=787481]
+ waitCnt=641427]
+ waitCnt=783166]
+ waitCnt=778017]
+ waitCnt=803028]
+ waitCnt=658599]
+ waitCnt=717621]
+ waitCnt=824517]
+ waitCnt=688233]
+ waitCnt=746307]
+ waitCnt=628460]
+ waitCnt=2100]
+ waitCnt=5678]
+ waitCnt=4454]
+ waitCnt=215197]
+ waitCnt=444]
+ waitCnt=5021]
+ waitCnt=42407]
+ waitCnt=16]
+ waitCnt=832809]
+ waitCnt=815570]
+ waitCnt=872057]
+ waitCnt=853698]
+ waitCnt=927885]
+ waitCnt=922253]
+ waitCnt=919133]
+ waitCnt=830947]
+ waitCnt=208582]
+ waitCnt=260]
+ waitCnt=273]
+ waitCnt=169]
+2
+ version=141
+ version=151
+dc=example
+ /home/wiebe/Development/java/apps/crito
+ ModuleCL@10dc77db[org.netbeans.modules.editor.indent.project]
+ 'status': {'description': 'The issue is open and ready for the assignee to start work on it.'
+ 'status': {'description': 'A resolution has been taken
+3
+MOVIEID
+" """"0"""".""""TIMESTAMP"""") VALUES (?"
+" a KV(<""""k5"""">"
+ Deleted files: 0) [Adding listeners took: 0 ms]WARNING [org.openide.text.CloneableEditorSupport]: org.netbeans.modules.xml.text.TextEditorSupport should override asynchronousOpen(). See http://bits.netbeans.org/dev/javadoc/org-openide-text/apichanges.html#CloneableEditorSupport.asynchronousOpenWARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-CompletionProviderImpl.instance]
+ Time elapsed: 0.001 s - in org.apache.flink.iteration.compile.DraftExecutionEnvironmentSwitchWrapperTest
+ Time elapsed: 0.115 s - in org.apache.flink.iteration.IterationConstructionTest
+ Time elapsed: 0 s - in org.apache.flink.iteration.progresstrack.OperatorEpochWatermarkTrackerTest
+ ModuleCL@3af462d4[org.netbeans.api.scripting]
+&amp;Delete[Actions/Edit/org-openide-actions-DeleteAction.instance]}]</param>
+ ModuleCL@6385c43c[org.netbeans.modules.classfile]
+ and 64 kB direct buffers.
+ 0x1 (n.round)
+name3=InMemoryDataTree]
+ excludes: {}]}}]
+ file.encoding=MacRoman
+ provided=false
+ org.apache.maven.shared:maven-common-artifact-filters=org.apache.maven.shared:maven-common-artifact-filters:jar:1.2:compile
+ Time elapsed: 0.663 sec
+ Time elapsed: 20.156 sec
+ Time elapsed: 0.007 sec
+ Time elapsed: 0.045 sec
+ Time elapsed: 0.106 sec
+ Time elapsed: 5.543 sec
+ Time elapsed: 4.083 sec
+ Time elapsed: 1.268 sec
+ Time elapsed: 0.006 sec
+ Time elapsed: 2.234 sec
+ Time elapsed: 0.051 sec
+ Time elapsed: 1.192 sec
+ Time elapsed: 0.004 sec
+ Time elapsed: 6.734 sec
+ Time elapsed: 0.096 sec
+ Time elapsed: 0.387 sec
+ Time elapsed: 0.042 sec
+ Time elapsed: 0.002 sec
+ Time elapsed: 6.711 sec
+ Time elapsed: 1.018 sec
+ Time elapsed: 4.485 sec
+ Time elapsed: 1.245 sec
+ Time elapsed: 1.221 sec
+ Time elapsed: 0.036 sec
+ Time elapsed: 11.223 sec
+ Time elapsed: 0.003 sec
+ Time elapsed: 0.001 sec
+ Time elapsed: 2.406 sec
+ Time elapsed: 0.017 sec
+ Time elapsed: 0.056 sec
+ Time elapsed: 0.01 sec
+ Time elapsed: 0.213 sec
+ Time elapsed: 0.025 sec
+ Time elapsed: 0.029 sec
+ generate-resources
+ datanucleus (http://www.datanucleus.org/downloads/maven2
+ Time elapsed: 0.091 sec
+ Time elapsed: 0.347 sec <<< FAILURE!
+ Time elapsed: 0.361 sec <<< FAILURE!
+ CPU and Memory metrics in API needed for dashboard page '
+ 524288
+ boost::_bi::list0>(boost::_bi::type<void>
+ boost::_bi::list2<boost::_bi::value<kudu::tserver::TSTabletManager*>
+ boost::_bi::list2<boost::_bi::value<kudu::ThreadPool*>
+ boost::function<void ()()>
+ long*>
+ kudu::MetricContext*) /var/lib/jenkins/workspace/kudu-tsan/label/centos6-kudu/src/consensus/log.cc:218 (exe+0x00000080bf64)
+ gscoped_ptr<kudu::log::Log
+ kudu::tablet::TabletStatusListener*
+ long*>(void (kudu::Thread::*)(boost::function<void ()()>
+ void (kudu::ThreadPool::* const&)(bool)
+ Time elapsed: 0.003 sec <<< FAILURE!
+ Time elapsed: 0.002 sec <<< FAILURE!
+ Time elapsed: 0.014 sec <<< FAILURE!
+ Time elapsed: 0.001 sec <<< FAILURE!
+ Time elapsed: 0.007 sec <<< FAILURE!
+ Time elapsed: 0.005 sec <<< FAILURE!
+ Time elapsed: 0.006 sec <<< FAILURE!
+ Time elapsed: 0.013 sec <<< FAILURE!
+ Time elapsed: 0.004 sec <<< FAILURE!
+ Time elapsed: 0.01 sec <<< FAILURE!
+ Time elapsed: 0.026 sec <<< FAILURE!
+ Time elapsed: 0.012 sec <<< FAILURE!
+ Time elapsed: 0.008 sec <<< FAILURE!
+ Time elapsed: 0.017 sec <<< FAILURE!
+ Time elapsed: 0.009 sec <<< FAILURE!
+ Time elapsed: 0.324 sec <<< FAILURE!
+ Time elapsed: 0.265 sec <<< FAILURE!
+ Time elapsed: 1.398 sec
+" """"topology.name"""" """"topologytest-2f5ede39-7bc9-4622-afbe-f11511605c74"""""
+" [4 4] [""""b145bfb7-7e94-4429-a8f6-f38738c402fb"""" 1025]"
+" """"topology.name"""" """"topologytest-38c89c6b-7c27-44d7-8862-757f520daa62"""""
+" [4 4] [""""b90265e4-11aa-4bfe-a9c2-e322162cfe5d"""" 1025]"
+ buffer_size: 5242880
+ _col4 (type: string)
+ KEY._col4 (type: string)
+ _col4
+ _col7 (type: string)
+cs1.b_streen_name 
+cs1.c_city 
+cs2.syear 
+count(*) as cnt
+'navajo'
+ad1.ca_street_number
+ad2.ca_street_number
+d1.d_year 
+ 16384
+ METHOD_LEN: 4
+ T_MINFRESH: 0
+ V_LEN: 63
+ 
+ METHOD_LEN: 3
+ heap=3.0GB]
+ minorTopVer=0]
+ minorTopVer=1]
+ minorTopVer=2]
+ minorTopVer=3]
+ minorTopVer=4]
+ discPort=0
+ clsLdrId=8489e43bc41-032f8cbf-f9aa-4040-8618-c7fe06e149b2
+ clsLdrId=5499e43bc41-6675eeb7-3232-44cd-8b7c-04fcc52b9762
+ clsLdrId=1499e43bc41-b12ead0f-6e8c-4cfb-99fd-4a1281648bd5
+ clsLdrId=1389e43bc41-50cfb09c-a733-433a-b611-b61bbdc024b4
+ -DIGNITE_HOME=/Users/yzhdanov/projects/incubator-ignite
+ fe80:0:0:0:3e07:54ff:fe21:d15d%11
+ order=23
+ clsLdrId=58b6e43bc41-394472b7-0e1d-4c86-b008-46397925433b
+ discPort=47500
+ clsLdrId=f576e43bc41-f2899fa7-22fd-4ae3-9602-6d6158bb0a06
+ clsLdrId=1676e43bc41-c2595bf4-9ec3-4092-a960-489bfdde7ef0
+ unwrapped: DrillBuf(ridx: 134
+ unwrapped: DrillBuf(ridx: 131
+ jar:file:/opt/drill/jars/drill-storage-hive-core-0.5.0-incubating.jar!/drill-module.conf
+ class org.apache.drill.common.logical.data.Transform
+ class org.apache.drill.exec.store.dfs.FileSystemConfig
+ class org.apache.drill.exec.store.easy.text.TextFormatPlugin$TextFormatConfig]
+ class org.apache.drill.common.logical.data.GroupingAggregate
+ class org.apache.drill.exec.store.mock.MockStorageEngineConfig
+ class org.apache.drill.exec.store.parquet.ParquetFormatConfig]
+ class org.apache.drill.common.logical.data.Writer
+ class org.apache.drill.exec.store.dfs.FileSystemFormatConfig
+ and I didn't get any answer from it.
+ 'quiet': False}
+ 'default_fs': 'hdfs://JOLOKIA'
+"\n    """"modelerType"""" : """"org.apache.hadoop.hdfs.server.namenode.NameNode"""""
+ 'source': '/usr/hdp/current/oozie-client/doc/examples/input-data'
+ 'try_sleep': 5}
+ waitCnt=244]
+ waitCnt=31021]
+ waitCnt=150]
+ waitCnt=30]
+ waitCnt=29863]
+ waitCnt=31]
+ waitCnt=193]
+ waitCnt=64]
+ waitCnt=166]
+ waitCnt=29984]
+ waitCnt=245]
+ waitCnt=31033]
+ 192.168.1.97]
+ CPUs=8
+ clsLdrId=04a174f8f41-f039f3a9-c728-4714-8027-d5d9bb9b3621
+ clsLdrId=f3a174f8f41-2f75dffe-1456-47e3-ac07-4b6d816f316d
+453950
+ -Xms16384m
+" file: """"/user/wuwm/.sparkStaging/application_1442215126745_0068/gbdt-training.jar"""""
+ --input=[/user/ambari-qa/mahoutsmokeinput/sample-mahout-test.txt]
+ 'ignite-atomics-sys-cache']
+ msgQ=[SupplyMessage [sndId=null
+Database
+ clsLdrId=160f2548051-40768ff4-b5a3-4258-9612-e72dddc17004
+ clsLdrId=7acf2548051-004d9756-3967-4ca0-b1b6-3d2dcf1e5000
+ discPort=47504
+ clsLdrId=d0203548051-10f7dea1-4252-4a47-a7cd-d9cc4cf36001
+ clsLdrId=a6e23548051-20959b84-38b6-4346-b50e-9963553be002
+ clsLdrId=86153548051-3056fdef-7987-40c2-8f43-7da3f35de003
+ clsLdrId=a4383548051-4055e9fc-0609-4e81-b0a5-21b24e14e004
+ clsLdrId=d55c3548051-004cd947-42bb-4198-8935-bc9581175000
+ clsLdrId=61a04548051-1072a499-8526-40d3-a852-88a489faa001
+ clsLdrId=4f854548051-20d08434-374c-47db-8d15-26a39c5ac002
+ clsLdrId=73da4548051-3053d740-bf8c-42bb-9915-7ca501cec003
+ clsLdrId=4b415548051-40a3af06-bb43-40aa-b6f6-75a866bbe004
+ clsLdrId=99365548051-0044363f-446f-4ceb-9104-50488ce60000
+ clsLdrId=d7db5548051-1053d216-c725-4779-a837-0732065f1001
+ clsLdrId=a8616548051-204c283c-6ad1-48af-830a-c02dfc69b002
+ clsLdrId=fbf66548051-30e05017-bf4f-420a-bdd8-d91024d0c003
+ clsLdrId=687c6548051-40c1597c-886d-4b70-bd30-4136acdba004
+ clsLdrId=053f2548051-50fdf6c8-eec8-4229-81f6-22be9c589005
+ locNode=TcpDiscoveryNode [id=50fdf6c8-eec8-4229-81f6-22be9c589005
+ clsLdrId=bda77548051-1086689b-30ea-43f4-aa18-ab1058c74001
+ clsLdrId=0d0f7548051-20178245-d08e-4efc-a843-984080f22002
+ clsLdrId=67e58548051-30aba1b5-8fdb-4f5f-ab64-36a8d0c2b003
+ clsLdrId=bdc07548051-00e55cf4-ea08-4b67-8a57-cd92939b6000
+ order=5
+ innerFuts=[[node=1072a499-8526-40d3-a852-88a489faa001
+ order=20
+ order=24
+ innerFuts=[[node=1053d216-c725-4779-a837-0732065f1001
+ kudu::tablet::LeaderTransactionDriver>&
+ void>::invoke(boost::detail::function::function_buffer&) /usr/include/boost/function/function_template.hpp:153 (libtablet.so+0x000000252059)
+ kudu::rpc::ServicePool>&
+ void>::invoke(boost::detail::function::function_buffer&) /usr/include/boost/function/function_template.hpp:153 (libkrpc.so+0x0000000e9bd9)
+ Quickbooks tech support number
+ Quickbooks tech Support number
+ ip-10-32-36-44(29715)<ec><v470>:1027]  shutdown: [ip-10-32-36-44(29715)<ec><v466>:1027]
+ ip-10-32-36-44(29702)<ec><v469>:1026]  shutdown: [ip-10-32-36-44(29702)<ec><v465>:1026]
+ ip-10-32-36-44(29702)<ec><v469>:1026
+ mcast-port=0
+ ip-10-32-36-44(29724)<ec><v471>:1028]  shutdown: [ip-10-32-36-44(29724)<ec><v467>:1028]
+ ip-10-32-36-44(29715)<ec><v470>:1027
+ ip-10-32-36-44(29715)<ec><v470>:1027]
+ a2dd17b8-6816-4095-6bc3-7ba9cf91faac(19465)<ec><v56>:1027
+ 42589))] in 1 attempts
+ 42589))] in 2 attempts
+ 42589))] in 3 attempts
+ 42589))]
+ Time elapsed: 0.001 sec - in org.apache.ws.commons.schema.docpath.TestXmlSchemaNamespaceContext
+ Time elapsed: 0.061 sec <<< FAILURE! - in org.apache.ws.commons.schema.docpath.TestXmlSchemaPathFinder
+ Time elapsed: 0.031 sec - in org.apache.ws.commons.schema.docpath.TestXmlSchemaStateMachineGenerator
+ Time elapsed: 0.008 sec - in org.apache.ws.commons.schema.walker.TestSchemaWalker
+ Time elapsed: 0.001 sec - in org.apache.ws.commons.schema.walker.TestXmlSchemaBaseSimpleType
+ Time elapsed: 0.008 sec - in org.apache.ws.commons.schema.walker.TestXmlSchemaRestriction
+ ...)
+ self.resolve( url ) )
+mode=755)
+relatime
+noexec
+42941
+1497445016812]
+ Time elapsed: 623.104 sec <<< FAILURE! - in org.apache.flink.addons.hbase.HBaseConnectorITCase
+ 3
+ Blowfish
+ CRAM-MD5
+ Enveloped
+ waitCnt=494]
+ waitCnt=503]
+ waitCnt=10593]
+ waitCnt=59]
+ waitCnt=17]
+ waitCnt=2937]
+ waitCnt=19]
+ waitCnt=18]
+ waitCnt=49]
+ waitCnt=2975]
+ waitCnt=60]
+ waitCnt=57]
+ waitCnt=3005]
+ waitCnt=23]
+ waitCnt=3018]
+ waitCnt=55]
+ waitCnt=20]
+ waitCnt=15]
+ waitCnt=58]
+ waitCnt=3059]
+ waitCnt=41]
+ waitCnt=141441]
+ waitCnt=236]
+ waitCnt=315]
+ waitCnt=36758]
+ clsLdrId=f09cd509051-101fe575-f31f-47c1-abdf-b86359b46001
+ clsLdrId=20a1e509051-20bd6261-ec7d-47f6-b0d6-a1b15291f002
+ clsLdrId=17c2d509051-0088a505-0d95-4f4f-94f4-7a60bba75000
+ discPort=47505
+ clsLdrId=29f0f509051-5053c88a-3044-4888-9862-0199db7b5005
+ clsLdrId=c2b6e509051-300c8c07-e390-49d3-ba31-70e1b91f2003
+ clsLdrId=18cbe509051-40a9fac8-222f-4ac6-939a-1d28e81bb004
+ client=false]
+ innerFuts=[[node=40a9fac8-222f-4ac6-939a-1d28e81bb004
+ waitCnt=24]
+ waitCnt=1541]
+ waitCnt=45]
+ waitCnt=2989]
+ waitCnt=21]
+ waitCnt=3026]
+ waitCnt=3056]
+ waitCnt=25]
+ waitCnt=66]
+ waitCnt=3071]
+ waitCnt=3111]
+ waitCnt=141491]
+ waitCnt=237]
+ waitCnt=316]
+ deltas={5053c88a-3044-4888-9862-0199db7b5005=0
+ nodeId=101fe575
+ -DIGNITE_QUIET=false
+ -XX:ConcGCThreads=16
+ -Xms6g
+ 'atomic'
+ 'atomic14'
+ 'tx11'
+ selectorSpins=0
+ 208a859a78f987562b4e8dcad6e90582
+ discPort=47508
+ discPort=47509
+ isCancelled=true
+ res=java.util.concurrent.atomic.AtomicMarkableReference@47468e36
+ semId=673218572
+ semId=673087496
+ res=java.util.concurrent.atomic.AtomicMarkableReference@6697fb60
+ discPort=47506
+ discPort=47507
+ DestroyGatewaySenderCommandDUnitTest
+hostname-for-clients=localhost
+ use-cluster-configuration=false
+ localhost[29713]]}.
+ LocatorAddress [socketInetAddress=localhost/127.0.0.1:12345
+ 3=[localhost[23255]]}.
+ 3=[localhost[23255]
+ 3=[localhost[23614]
+ 172.17.0.4(474)<v4>:32776]
+ 172.17.0.4(414)<v3>:32775
+ disable-auto-reconnect=true
+ flags=OOB|DONT_BUNDLE|NO_FC|SKIP_BARRIER]
+ 172.17.0.4(179)<ec><v0>:32770]
+ ConcurrentSerialGatewaySenderOperationsDUnitTest
+ waitCnt=29]
+ waitCnt=56643]
+ waitCnt=57592]
+ waitCnt=57756]
+ waitCnt=57654]
+ waitCnt=57197]
+ waitCnt=91718]
+ waitCnt=54]
+ waitCnt=53]
+ waitCnt=2083]
+ clsLdrId=1be1b597051-40389643-57fb-43e2-a3ce-b88236309004
+ nodeId=006f53ca
+ client=true]
+ waitCnt=600]
+ waitCnt=238]
+ waitCnt=29823]
+ waitCnt=161]
+ waitCnt=81164]
+ waitCnt=145]
+ waitCnt=3484]
+ Build
+ org-netbeans-core-ide-ServicesTabAction.shadow
+ org-netbeans-modules-editor-bookmarks-ui-BookmarksViewOpenAction.shadow
+ file:/D:/work/products/watchdog/r08.00.00--repeater/message_splitter/appliances/repeater/test-help/src/main/java/au/com/fourtel/alarms/data/TestAlarmData.java
+ version=12
+ version=15
+ file:/D:/work/products/watchdog/r08.00.00--repeater/message_splitter/appliances/repeater/test-help/src/main/java/au/com/fourtel/provider/alarms/AlarmsSource.java
+ version=91
+ version=669
+ version=258
+ version=92
+ version=110
+ version=11
+ version=10
+ removed 0 partition(s) out of 1 partition(s)
+ leader = 20
+ maxSize=1402575232
+ 10); ratio 1.200000; off-peak ratio 5.000000; throttle point 2684354560; major period 604800000
+40509
+ VERSIONS => '10'
+ ts=1502548347376
+ suffix=
+ primaryNodeIndex=-1
+ ts=1502548349772
+ ts=1502548349773
+ hasBloomFilter=true
+ filesize=5.0 K
+ filesize=4.9 K
+ filesize=5.1 K
+ filesize=5.4 K
+1502548349279.488bfb40330ac74164bb17a68e9c6891. in 630ms
+1502548349279.13b83e048c120b806088d881bcc1b120. in 630ms
+1502548349279.488bfb40330ac74164bb17a68e9c6891.'
+ hasBloomFilter=false
+ filesize=4.8 K
+ filesize=5.7 K
+1502548346801.b3abc7615b11cec684be076c7f67241d. in 53ms
+1.1588230740 in 51ms
+36259
+1502548344712]
+ Time elapsed: 24.443 sec <<< FAILURE! - in org.apache.flink.addons.hbase.HBaseConnectorITCase
+ Time elapsed: 0.212 sec <<< FAILURE! - in org.apache.commons.beanutils2.converters.SqlTimeConverterTestCase
+ Time elapsed: 0.186 sec <<< FAILURE! - in org.apache.commons.beanutils2.converters.SqlTimestampConverterTestCase
+ Time elapsed: 0.07 sec - in org.apache.commons.beanutils2.converters.StringArrayConverterTestCase
+ Time elapsed: 0.148 sec - in org.apache.commons.beanutils2.converters.StringConverterTestCase
+ Time elapsed: 0.267 sec - in org.apache.commons.beanutils2.converters.URLConverterTestCase
+ Time elapsed: 0.286 sec <<< FAILURE! - in org.apache.commons.beanutils2.ConvertUtilsTestCase
+ Time elapsed: 0.084 sec - in org.apache.commons.beanutils2.DefaultIntrospectionContextTestCase
+ Time elapsed: 0.089 sec - in org.apache.commons.beanutils2.DynaBeanMapDecoratorTestCase
+ Time elapsed: 0.399 sec - in org.apache.commons.beanutils2.DynaBeanUtilsTestCase
+ Time elapsed: 0.063 sec - in org.apache.commons.beanutils2.DynaPropertyTestCase
+ Time elapsed: 0.35 sec - in org.apache.commons.beanutils2.DynaPropertyUtilsTestCase
+ Time elapsed: 0.196 sec <<< FAILURE! - in org.apache.commons.beanutils2.DynaResultSetTestCase
+ Time elapsed: 0.154 sec <<< FAILURE! - in org.apache.commons.beanutils2.DynaRowSetTestCase
+ Time elapsed: 0.078 sec - in org.apache.commons.beanutils2.expression.DefaultResolverTestCase
+ Time elapsed: 0.368 sec - in org.apache.commons.beanutils2.FluentPropertyBeanIntrospectorTestCase
+ Time elapsed: 0.602 sec - in org.apache.commons.beanutils2.IndexedPropertyTestCase
+ Time elapsed: 0.289 sec - in org.apache.commons.beanutils2.LazyDynaBeanTestCase
+ Time elapsed: 0.151 sec - in org.apache.commons.beanutils2.LazyDynaClassTestCase
+ Time elapsed: 0.629 sec - in org.apache.commons.beanutils2.LazyDynaListTestCase
+ Time elapsed: 0.286 sec - in org.apache.commons.beanutils2.LazyDynaMapTestCase
+ Time elapsed: 0.072 sec - in org.apache.commons.beanutils2.locale.converters.BaseLocaleConverterTestCase
+ Time elapsed: 0.161 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.converters.BigDecimalLocaleConverterTestCase
+ Time elapsed: 0.183 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.converters.BigIntegerLocaleConverterTestCase
+ Time elapsed: 0.189 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.converters.ByteLocaleConverterTestCase
+ Time elapsed: 0.181 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.converters.DateLocaleConverterTestCase
+ Time elapsed: 0.143 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.converters.DoubleLocaleConverterTestCase
+ Time elapsed: 0.312 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.converters.FloatLocaleConverterTestCase
+ Time elapsed: 0.147 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.converters.IntegerLocaleConverterTestCase
+ Time elapsed: 0.162 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.converters.LongLocaleConverterTestCase
+ Time elapsed: 0.146 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.converters.ShortLocaleConverterTestCase
+ Time elapsed: 0.328 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.LocaleBeanificationTestCase
+ Time elapsed: 0.277 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.LocaleBeanUtilsTestCase
+ Time elapsed: 0.257 sec <<< FAILURE! - in org.apache.commons.beanutils2.locale.LocaleConvertUtilsTestCase
+ Time elapsed: 0.351 sec - in org.apache.commons.beanutils2.MappedPropertyTestCase
+ Time elapsed: 0.343 sec <<< FAILURE! - in org.apache.commons.beanutils2.memoryleaktests.MemoryLeakTestCase
+ Time elapsed: 0.199 sec - in org.apache.commons.beanutils2.MethodUtilsTestCase
+ Time elapsed: 0.803 sec - in org.apache.commons.beanutils2.PropertyUtilsTestCase
+ Time elapsed: 0.079 sec - in org.apache.commons.beanutils2.SuppressPropertiesBeanIntrospectorTestCase
+ Time elapsed: 0.358 sec - in org.apache.commons.beanutils2.WrapDynaBeanTestCase
+ metadata=''}} (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:710)
+error_code=0
+ altered ()
+ implied=(test1-0)) to broker vsomogyi-kafka-secure6x-1.gce.cloudera.com:9093 (id: 55 rack: null) (org.apache.kafka.clients.consumer.internals.Fetcher:218)
+min_bytes=1
+member_id=consumer-1-ae7df3c8-2589-49b6-a006-08e90fea410c} with correlation id 2794 to node 2147483592 (org.apache.kafka.clients.NetworkClient:501)
+error_code=0} (org.apache.kafka.clients.NetworkClient:800)
+ lastStableOffset = 16
+ altered (test1-0)
+ implied=()) to broker vsomogyi-kafka-secure6x-1.gce.cloudera.com:9093 (id: 55 rack: null) (org.apache.kafka.clients.consumer.internals.Fetcher:218)
+ 42.97 MB
+ 14
+ 120.00 B
+ 115.00 B
+ 104.96 MB
+ 40.58 MB
+ 10
+ 87.79 MB
+ 37.20 MB
+ 101.70 MB
+ 44.31 MB
+ 79.14 MB
+ 45.85 MB
+ 95.82 MB
+ 39.07 MB
+ 82.91 MB
+ 61.78 MB
+ 17
+ 94.55 MB
+ 42.17 MB
+ 12
+ 86.32 MB
+ 42.06 MB
+ 11
+ 89.63 MB
+ 50.91 MB
+ 84.60 MB
+ 51.71 MB
+ 13
+ 90.67 MB
+ 45.34 MB
+ 92.72 MB
+ 40.06 MB
+ 72.57 MB
+ 35.86 MB
+ 86.72 MB
+ 36.40 MB
+ 79.06 MB
+ 48.49 MB
+ 23
+ 98.66 MB
+ 68.93 MB
+ 110.63 MB
+ 41.60 MB
+ 93.13 MB
+ 48.28 MB
+ 99.42 MB
+ 48.09 MB
+ 102.71 MB
+ 42.15 MB
+ 16
+ 99.12 MB
+ 32.55 MB
+ 91.50 MB
+ 54.92 MB
+ 97.16 MB
+ 49.27 MB
+ 86.36 MB
+ 46.68 MB
+ 101.66 MB
+ 46.87 MB
+ 103.41 MB
+ 45.51 MB
+ 83.22 MB
+ 54.41 MB
+ 99.75 MB
+ 36.90 MB
+ 88.28 MB
+ 45.40 MB
+ 99.11 MB
+ 35.95 MB
+ 90.36 MB
+ 40.33 MB
+ 77.82 MB
+ 42.57 MB
+ 96.70 MB
+ 3.36 MB
+ 0
+ 3.21 MB
+ 2
+ 817.00 B
+cfType=Standard
+Counter1)
+Super1)
+SuperCounter1)
+Standard1)
+ SSTableReader(path='/var/lib/cassandra-trunk/data/system/Migrations-h-4-Data.db')]
+ SSTableReader(path='/var/lib/cassandra-trunk/data/system/Schema-h-3-Data.db')]
+ index_name='Idx1'}
+ ANY ss_hdemo_sk
+ ANY ss_item_sk
+ joinType=[inner]
+ ANY ss_cdemo_sk
+ numFiles=1
+ 2.0643532914688E13 network
+ 1.2290228093840001E11 cpu
+ ANY refund): rowcount = 7.19990208E7
+ ANY refund): rowcount = 1.439980416E8
+ $7)]) : rowType = RecordType(ANY cs_item_sk
+ 2.7359627904E10 cpu
+ ANY cr_store_credit): rowcount = 1.43996756E8
+ 146098.0 io
+ 482123.4 cpu
+ 4.031996696E9 cpu
+ 3841600.0 io
+ 11022.0 cpu
+ c_first_shipto_date_sk=[$4]
+ ANY c_first_shipto_date_sk
+ ANY c_current_cdemo_sk
+ 876588.0 cpu
+ 5.59104E7 network
+ 158580.0 cpu
+ ANY hd_income_band_sk
+ ANY ib_income_band_sk0): rowcount = 7200.0
+ cumulative cost = {633750.0 rows
+ cumulative cost = {616875.0 rows
+ =($2
+ ANY ca_zip): rowcount = 6000000.0
+ ca_zip0=[$4]) : rowType = RecordType(ANY ca_address_sk0
+ ANY store_name
+ test):128
+ test):1; mem(test
+ at1.smallint_col
+ smallint_col
+ 75th %-ile: 0
+ 75th %-ile: 6ms
+ 75th %-ile: 21ms
+ 75th %-ile: 1ms
+ 75th %-ile: 2ms
+ 75th %-ile: 16ms
+ 75th %-ile: 13ms
+ 75th %-ile: 3ms
+ 75th %-ile: 4ms
+ 75th %-ile: 34ms
+ 75th %-ile: 62ms
+ 75th %-ile: 75ms
+ 75th %-ile: 22ms
+ 75th %-ile: 3s406ms
+ 75th %-ile: 19ms
+ 75th %-ile: 18ms
+ 75th %-ile: 118.000us
+ 75th %-ile: 54.000us
+ 75th %-ile: 79.00 B
+ 75th %-ile: 211.000us
+ 75th %-ile: 4.83 KB
+"\330o\277\210\344B\262\354"""""
+ HyperlinkProviderImpl.instance
+ org.netbeans.MainImpl$BootClassLoader@1fb3ebeb
+ module org.openide.filesystems.nb
+ module org.netbeans.modules.projectuiapi.base/1 > 1.78.0
+ iconloader.jar
+ CallHierarchyAction.shadow
+ Advanced
